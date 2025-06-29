@@ -6,7 +6,7 @@ const CONFIG = {
     PROXIO_WELCOME_TEXT: '歡迎來到此網站，點擊任何位置進入', // 欢迎文字，留空则不启用
 
     // 英雄区块导航
-    PROXIO_HERO_ENABLE: false, // 开启英雄区
+    PROXIO_HERO_ENABLE: true, // 开启英雄区
     PROXIO_HERO_TITLE_1: '開源且免費的基於 Notion 筆記的網站建立工具', // 英雄区文字
     PROXIO_HERO_TITLE_2: '透過筆記無感知地建站、倍增您的價值', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
