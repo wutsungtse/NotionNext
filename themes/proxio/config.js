@@ -7,10 +7,10 @@ const CONFIG = {
 
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
-    PROXIO_HERO_TITLE_1: '開源且免費的基於 Notion 筆記的網站建立工具', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '透過筆記無感知地建站、倍增您的價值', // 英雄区文字
+    PROXIO_HERO_TITLE_1: '歡迎來到理央的博客', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '在這裡，我會透過筆記分享資安的知識', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-    PROXIO_HERO_BUTTON_1_TEXT: '開始體驗', // 英雄区按钮
+    PROXIO_HERO_BUTTON_1_TEXT: '', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
         'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
