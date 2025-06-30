@@ -193,8 +193,8 @@ const CONFIG = {
             name: '友情鏈接',
             menus: [
                 {
-                    title: 'Tangly的学习笔记',
-                    href: 'https://blog.tangly1024.com'
+                    title: 'Twitch直播間',
+                    href: 'https://twitch.tv/leowulove'
                 },
                 {
                     title: 'NotionNext',
