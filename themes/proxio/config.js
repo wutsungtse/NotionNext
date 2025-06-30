@@ -238,15 +238,15 @@ const CONFIG = {
 
     // 404页面的提示语
     PROXIO_404_TITLE: '我們似乎找不到您要找的頁面。',
-    PROXIO_404_TEXT: '抱歉！您要查找的页面不存在。可能已经移动或删除。',
+    PROXIO_404_TEXT: '抱歉！您要尋找的頁面不存在。可能已移動或刪除。',
     PROXIO_404_BACK: '回到首頁',
 
     // 页面底部的行动呼吁模块
     PROXIO_CTA_ENABLE: true,
     PROXIO_CTA_TITLE: '與我建立聯繫',
-    PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
+    PROXIO_CTA_TITLE_2: '讓理央幫助你',
     PROXIO_CTA_DESCRIPTION:
-        '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+        '點進去就對了',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
     PROXIO_CTA_BUTTON_URL:
         '/about',
