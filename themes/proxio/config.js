@@ -198,7 +198,7 @@ const CONFIG = {
                 },
                 {
                     title: 'NotionNext',
-                    href: 'https://www.leowu.love'
+                    href: 'https://leowu.love'
                 }
             ]
         },
