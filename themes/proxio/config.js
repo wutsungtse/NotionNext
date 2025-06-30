@@ -205,7 +205,7 @@ const CONFIG = {
         {
             name: '',
             menus: [
-                { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+                { title: 'Github', href: 'https://github.com/wutsungtse' },
                 {
                     title: '开发帮助',
                     href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
