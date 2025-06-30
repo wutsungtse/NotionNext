@@ -71,9 +71,9 @@ const CONFIG = {
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
-        { title: 'Student at University College London (UCL)', bio: '2015-2019', text: '' },
-        { title: 'EUV Upgrade Engineer at ASML', bio: '2022-2024', text: '' },
-        { title: 'DEG PE Validation Engineer at Micron', bio: '2025-Now', text: '' }
+        { title: 'Student at University College London (UCL)', bio: '2015-2019', text: '迷茫中' },
+        { title: 'EUV Upgrade Engineer at ASML', bio: '2022-2024', text: '鎖螺絲' },
+        { title: 'DEG PE Validation Engineer at Micron', bio: '2025-Now', text: '敲代碼' }
     ],
 
     // 首页用户测评区块
