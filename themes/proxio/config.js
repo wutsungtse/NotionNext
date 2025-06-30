@@ -203,24 +203,15 @@ const CONFIG = {
             ]
         },
         {
-            name: '',
+            name: '開發者',
             menus: [
-                { title: 'Github', href: 'https://github.com/wutsungtse' },
                 {
-                    title: '开发帮助',
-                    href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+                    title: 'Github',
+                    href: 'https://github.com/wutsungtse'
                 },
                 {
-                    title: '功能反馈',
-                    href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
-                },
-                {
-                    title: '技术讨论',
-                    href: 'https://github.com/tangly1024/NotionNext/discussions'
-                },
-                {
-                    title: '关于作者',
-                    href: 'https://blog.tangly1024.com/about'
+                    title: '關於作者',
+                    href: 'https://leowu.love/about'
                 }
             ]
         }],
