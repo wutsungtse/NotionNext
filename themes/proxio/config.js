@@ -190,7 +190,7 @@ const CONFIG = {
     // 页脚菜单
     PROXIO_FOOTER_LINKS: [
         {
-            name: '友情链接',
+            name: '友情鏈接',
             menus: [
                 {
                     title: 'Tangly的学习笔记',
@@ -203,7 +203,7 @@ const CONFIG = {
             ]
         },
         {
-            name: '开发者',
+            name: '',
             menus: [
                 { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
                 {
