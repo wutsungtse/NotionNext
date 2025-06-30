@@ -67,13 +67,13 @@ const CONFIG = {
     PROXIO_CAREER_ENABLE: true, // 区块开关
     PROXIO_CAREER_TITLE: '生涯',
     PROXIO_CAREER_TEXT:
-        '以下是我的职业生涯',
+        '以下是我的職業生涯',
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
-        { title: 'Freelance Architect', bio: '2016-2020', text: 'As a freelance architect, I worked on a range of residential and commercial projects, balancing form and function. I collaborated with clients and contractors to transform concepts into reality, ensuring each design was both aesthetically pleasing and structurally sound.' },
-        { title: 'Product Designer at Spotify', bio: '2020-2022', text: 'At Spotify, I helped shape innovative features for millions of users globally. My focus was on creating seamless music discovery experiences, enhancing user interfaces, and optimizing cross-platform navigation, which led to an improved product flow and increased user satisfaction.' },
-        { title: 'Freelance Product Designer', bio: '2022-Now', text: 'Now I design user-centric products that align with client visions. As a freelance product designer, I collaborate with startups and established companies, crafting solutions that elevate user experiences and increase engagement across both digital and physical interfaces.' }
+        { title: 'Student at University College London (UCL)', bio: '2015-2019', text: '' },
+        { title: 'EUV Upgrade Engineer at ASML', bio: '2022-2024', text: '' },
+        { title: 'DEG PE Validation Engineer at Micron', bio: '2025-Now', text: '' }
     ],
 
     // 首页用户测评区块
@@ -85,7 +85,7 @@ const CONFIG = {
 
     // 用户测评处的跳转按钮
     PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
-    PROXIO_TESTIMONIALS_BUTTON_TEXT: '联系我',
+    PROXIO_TESTIMONIALS_BUTTON_TEXT: '聯繫我',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
     PROXIO_TESTIMONIALS_ITEMS: [
@@ -243,17 +243,17 @@ const CONFIG = {
 
     // 页面底部的行动呼吁模块
     PROXIO_CTA_ENABLE: true,
-    PROXIO_CTA_TITLE: '与我建立联系',
+    PROXIO_CTA_TITLE: '與我建立聯繫',
     PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
     PROXIO_CTA_DESCRIPTION:
         '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
     PROXIO_CTA_BUTTON_URL:
         '/about',
-    PROXIO_CTA_BUTTON_TEXT: '联系我',
+    PROXIO_CTA_BUTTON_TEXT: '聯繫我',
 
     PROXIO_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-    PROXIO_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
+    PROXIO_POST_REDIRECT_URL: 'https://leowu.love', // 重定向域名
     PROXIO_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_PROXIO_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
