@@ -193,12 +193,12 @@ const CONFIG = {
             name: '友情鏈接',
             menus: [
                 {
-                    title: 'Twitch直播間',
+                    title: '理央的圖直播間',
                     href: 'https://twitch.tv/leowulove'
                 },
                 {
                     title: 'NotionNext',
-                    href: 'https://www.tangly1024.com'
+                    href: 'https://www.leowu.love'
                 }
             ]
         },
