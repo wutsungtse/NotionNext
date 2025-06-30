@@ -193,7 +193,7 @@ const CONFIG = {
             name: '友情鏈接',
             menus: [
                 {
-                    title: '理央的圖直播間',
+                    title: '理央的圖奇直播間',
                     href: 'https://twitch.tv/leowulove'
                 },
                 {
@@ -218,13 +218,13 @@ const CONFIG = {
 
     PROXIO_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
-    PROXIO_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
+    PROXIO_FOOTER_PRIVACY_POLICY_TEXT: '隱私政策',
     PROXIO_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
-    PROXIO_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
+    PROXIO_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律聲明',
     PROXIO_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
 
-    PROXIO_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
+    PROXIO_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服務協議',
     PROXIO_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
     // 404页面的提示语
