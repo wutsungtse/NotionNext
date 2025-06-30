@@ -8,7 +8,7 @@ const CONFIG = {
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
     PROXIO_HERO_TITLE_1: '歡迎來到理央的博客', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '在這裡，我會透過筆記分享資安的知識', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '在這裡，我透過筆記分享資安的知識', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     PROXIO_HERO_BUTTON_1_TEXT: '', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
